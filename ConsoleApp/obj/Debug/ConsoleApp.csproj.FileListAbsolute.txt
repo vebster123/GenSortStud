@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\Sorting.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\StudentNS.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\Sorting.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\StudentNS.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Maxim\Desktop\Новая папка\FO-340001-master\StudentNS\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Maxim\Desktop\Новая папка\FO-340001-master\StudentNS\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Maxim\Desktop\Новая папка\FO-340001-master\StudentNS\ConsoleApp\obj\Debug\ConsoleApp.pdb

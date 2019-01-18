@@ -1,0 +1,5 @@
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\StudentNS\bin\Debug\StudentNS.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\StudentNS\bin\Debug\StudentNS.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\StudentNS\obj\Debug\StudentNS.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\StudentNS\obj\Debug\StudentNS.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\StudentNS\obj\Debug\StudentNS.pdb

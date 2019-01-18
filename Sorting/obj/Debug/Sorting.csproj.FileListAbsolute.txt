@@ -1,0 +1,7 @@
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\bin\Debug\Sorting.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\bin\Debug\StudentNS.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\bin\Debug\StudentNS.pdb
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\obj\Debug\Sorting.dll
+C:\Users\Maxim\Desktop\FO-340001-master\StudentNS\Sorting\obj\Debug\Sorting.pdb
